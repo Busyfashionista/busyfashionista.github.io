@@ -40,28 +40,28 @@ of those sections to manage the look and feel of the site. */
 
 .about-section {
     height: 100%;
-    padding-top: 20px;
+    padding-top: 50px;
     text-align: center;
     background: #eee;
 }
 
 .services-section {
     height: 100%;
-    padding-top: 20px;
+    padding-top: 50px;
     text-align: center;
     background: #fff;
 }
 
 .designers-section {
     height: 100%;
-    padding-top: 20px;
+    padding-top: 50px;
     text-align: center;
     background: #eee;
 }
 
 .borrowed-section {
     height: 100%;
-    padding-top: 20px;
+    padding-top: 50px;
     text-align: center;
     background: #fff;
 }
