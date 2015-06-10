@@ -32,6 +32,7 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 
 .intro-section {
+    font-family: "Bodoni MT";
     height: 100%;
     padding-top: 150px;
     text-align: center;
@@ -39,6 +40,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .about-section {
+    font-family: "Bodoni MT";
     height: 100%;
     padding-top: 10px;
     text-align: center;
@@ -46,6 +48,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .services-section {
+    font-family: "Bodoni MT";
     height: 100%;
     padding-top: 10px;
     text-align: center;
@@ -53,6 +56,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .designers-section {
+    font-family: "Bodoni MT";
     height: 100%;
     padding-top: 10px;
     text-align: center;
@@ -60,6 +64,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .borrowed-section {
+    font-family: "Bodoni MT";
     height: 100%;
     padding-top: 10px;
     text-align: center;
@@ -67,6 +72,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .contact-section {
+    font-family: "Bodoni MT";
     height: 100%;
     padding-top: 10px;
     text-align: center;
