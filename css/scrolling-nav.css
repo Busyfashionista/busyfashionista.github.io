@@ -22,6 +22,9 @@ html {
         transition: background .5s ease-in-out,padding .5s ease-in-out;
     }
 
+@media print {
+    img { max-width: 100%; }
+}
     .top-nav-collapse {
         padding: 0;
     }
